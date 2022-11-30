@@ -43,33 +43,68 @@
     Absolutely. 
 
 
+**Question 2**
+
+    Is there a link between artist streams and award show recognition?
 
 
+**Caveat**
 
-**Question 2 ** 
-
-
-
+    Members of the Recording Academy: The Recording Academy represents the voices of performers, songwriters, producers, engineers, and all music professionals. Dedicated to ensuring the recording arts remain a thriving part of our shared cultural heritage, the Academy honors music’s history while investing in its future through the GRAMMY Museum, advocates on behalf of music creators, supports music people in times of need through MusiCares, and celebrates artistic excellence through the GRAMMY Awards - music’s only peer-recognized accolade and highest achievement. As the world’s leading society of music professionals, we work year-round to foster a more inspiring world for creators.
 
 
+    Voting: Members of the Grammy Awards, an elite group of music industry members, vote to choose the greatest in music and to reward work that they believe will stand the test of time. But, do Spotify users agree? 
+
+    As a result, we decided to analyze whether there is a relationship between an artist spotify streams and award show recognition. 
+
+    We pulled the US Top Weekly Songs between October 1, 2018 - September 30,2019 from Spotify. The data was limited to the Top 200 songs per week and the numerical data was constantly changing from week to week, but we found that we were able to group by Artist Name & Song Title based on the number of Spotify Streams. Therefore our analysis is solely based on Spotify because it was difficult to find openly available data from Spotify's biggest competitor, Apple Music over the same time period 
+
+    Additionally, we pulled Spotify data from October 1, 2018 - September 30,2019 because this is the same period for song / album eligibility for the 62nd Grammy Awards (2020)
+
+    For Spotify data, We are taking out analysis from the top 10 artist based on spotify streams & we are highlighting the top 10 songs/track names based on spotify streams 
+
+    For Grammy data, we focusing on the following categores: Best New Artist, Record of the Year, Song of the Year, Best Rap Song, Best R&B Song, Best Rock Song, and Best Country Song
 
 
+**Definition**
+
+    To construct the top 10 artist Spotify dataset, we selected the artist from the 52 week period to examine the total number of streams accumulated 
+
+    To construct the top 10 Spotify songs/track names dataset, we selected the top songs from the 52 week period to further examine the total number of streams accumulated 
+
+    We examined the Spotify streams for the top 10 artists and compared them to the candidates and winners of six Grammy categories.
 
 
+    Each Top Weekly Chart features 200 songs, bringing the total number of songs in our sample to 10401, with a total of 30,503,387,078 streams.
 
 
+**Method**
+
+    1. We combined the top weekly songs dataset with the Grammy 62nd dataset to compute the total amount of streams for each artist using the "Streams" column. 
+
+    We utilized two charts (a bar chart and a pie chart) to indicate if the top 10 artists in terms of streaming were nominated in the big five Grammy categories.
+
+    2. We constructed bar charts to see if any of the top songs with the most streaming were nominated in any of the major five Grammy categories.
+
+    3. Finally, we examined each category separately to see if the winner in each category produced streams.
 
 
+**Findings**
+
+    The Grammy Awards are decided by members' votes in the music industry. Even if a song is deemed "popular," in spotify it may not receive a nomination or win an award.
+
+    From the a sample of six Grammy categories we analyzed the biggest disparity is in the Big three categories: Best Country song, Best Rock Song, Best R&B song.
+
+    The winners of the three categories (Best Country song, Best Rock Song, Best R&B song) generated 0 streams in all 54 weeks combine.
+
+    The Best Rap Song category recognizes artists with large Spotify streams as nominees but not as winners
+
+    Winners and Nominees for Record and Song of the Years are closely related to Spotify streams. 
 
 
+**Conclusion**
 
-
-
-
-
-
-
-
+    Based on the findings above, we agree there is no relationship between artists streams and award show recognition.
 
 
 
