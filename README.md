@@ -3,16 +3,14 @@
 
 
 
-**Question 1** 
-Does seasonality impact what genre of music people listen to throughout the year?
+**Caveats**
 
-
-*Caveats* 
 Spotify is a popular streaming company that currently holds 433 million active monthly users in 2022 . 
 Spotify owns 36% of the worldwide music streaming market, so it is the number one music streaming platform. North America comes in at the number 2 spot holding 22% of the share. Naturally as humans we like to play music in all type of settings. We love to curate playlist geared towards our moods and specific occasions. So we decided to dive into whether specific genres grow popularity in different seasons of the year. To keep the data cohesive with our Grammy statistics,  we decided to dive into Spotify's 2019 Top Weekly Songs in the US that were eligible for the 62nd Grammy Awards (2020). 
 
 
 **Definitions**
+
 To create a sample size we choose the first week of top songs of a chosen month to represent a specific season.
 
 - January 2019 represents our Winter season
