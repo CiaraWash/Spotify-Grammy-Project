@@ -3,7 +3,7 @@
 
 
 
-*Question 1** 
+**Question 1** 
 Does seasonality impact what genre of music people listen to throughout the year?
 
 
@@ -12,7 +12,7 @@ Spotify is a popular streaming company that currently holds 433 million active m
 Spotify owns 36% of the worldwide music streaming market, so it is the number one music streaming platform. North America comes in at the number 2 spot holding 22% of the share. Naturally as humans we like to play music in all type of settings. We love to curate playlist geared towards our moods and specific occasions. So we decided to dive into whether specific genres grow popularity in different seasons of the year. To keep the data cohesive with our Grammy statistics,  we decided to dive into Spotify's 2019 Top Weekly Songs in the US that were eligible for the 62nd Grammy Awards (2020). 
 
 
-*Definitions* 
+**Definitions**
 To create a sample size we choose the first week of top songs of a chosen month to represent a specific season.
 
 - January 2019 represents our Winter season
@@ -22,7 +22,7 @@ To create a sample size we choose the first week of top songs of a chosen month 
 
 Each Top Weekly Chart holds 200 songs, which brings our sample size to 800 songs and a grand total of 2,350,492,289 streams. 
 
-*Methodology* 
+**Methodology**
 
 1. We combined the seasonal dataset and were able to calculate the total numbers of streams using the "Streams" column for each genre. We turned this into a bar chart to show what genre's are the most popular across the data. 
  
@@ -32,14 +32,14 @@ Each Top Weekly Chart holds 200 songs, which brings our sample size to 800 songs
 
 
 
-*Statisical Analysis* 
+**Statisical Analysis**
 
 When we created the "Top 5 Genre's Per Season in 2019" chart, we automatically saw a drastic chnage with the "Pop" category. In Autumn the "Pop" category started at 7.68%,  reached its peak in the Summer with a 11.8% increase then made a total decline of 7% by Winter. 
 
 Across all seasons the" Rap/HipHop" genre reigns over the other genres but makes a huge decline from autumn to spring by 25%. 
 
 
-*Conclusion* 
+**Conclusion**
 
 So coming back to our original question...Does seasonality impact what genre of music people listen to throughout the year ? 
 
