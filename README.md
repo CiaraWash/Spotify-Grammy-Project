@@ -63,7 +63,7 @@
 
     For Spotify data, We are taking out analysis from the top 10 artist based on spotify streams & we are highlighting the top 10 songs/track names based on spotify streams 
 
-    For Grammy data, we focusing on the following categores: Best New Artist, Record of the Year, Song of the Year, Best Rap Song, Best R&B Song, Best Rock Song, and Best Country Song
+    For Grammy data, we focusing on the following categores: Best New Artist, Record of the Year, Song of the Year, Best Rap Song, Best R&B Song, Best Rock Song, and Best Country Song.
 
 
 **Definition**
